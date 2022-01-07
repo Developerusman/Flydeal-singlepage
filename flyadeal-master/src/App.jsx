@@ -12,6 +12,8 @@ function App() {
       <CardsContainer />
       <SelectedComponent />
     </div>
+
+   {/* All copy rights usmandeveloper.com */}
   );
 }
 
