@@ -1,7 +1,6 @@
 import React from 'react';
 
 import chair from '../assets/chair.png';
-// import lineBar from '../assets/line bar.png';
 import seatingInChair from '../assets/seating in a chair.png';
 import ladyAndGents from '../assets/lady and gents.png';
 import CustomRadio from './shareable/CustomOutlinedRadio';
@@ -103,6 +102,7 @@ export default function SelectedComponent() {
           <button onClick={() => setThankYou(true)} className="px-4 py-2 mt-6 font-semibold text-white uppercase rounded-lg bg-customViolet">Continue</button>
         </div>
       </div>
+       {/* All copy rights usmandeveloper.com */}
     </div>
   );
 }
