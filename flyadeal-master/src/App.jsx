@@ -11,9 +11,10 @@ function App() {
       <TopComponent />
       <CardsContainer />
       <SelectedComponent />
+   {/* All copy rights usmandeveloper.com */}
     </div>
 
-   {/* All copy rights usmandeveloper.com */}
+
   );
 }
 
